@@ -1,0 +1,40 @@
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.move{
+    background-color: rgb(25, 25, 25);
+    border-color: white;
+    cursor: pointer;
+    height: 122px;
+    width: 122px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 120px;
+    margin-right: 10px;
+}
+.move-icon{
+    height: 50px;
+}
+.intro{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.js-result{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.js-score{
+    margin-top: 60px;
+}
+.reset-score{
+    padding: 8px 15px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+}
